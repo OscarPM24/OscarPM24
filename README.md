@@ -58,7 +58,7 @@ I'm very passionate about the world of programming and videogames! Here, you can
       <h3 align="center">Friendly Wars Discord Bot</h3>
       <div align="center">
         <a href="https://github.com/Luke-Bytes/TeamsDiscordBot" target="_blank">
-          <img src="https://i.imgur.com/hCizO7o.png" style="height: 12em; object-fit: contain; max-width: 100%;" alt="Friendly Wars Discord Bot">
+          <img src="https://i.imgur.com/hCizO7o.png" style="height: auto; object-fit: contain; max-width: 100%;" alt="Friendly Wars Discord Bot">
         </a>
         <p>
           <a href="https://github.com/Luke-Bytes/TeamsDiscordBot" target="_blank">
@@ -77,7 +77,7 @@ I'm very passionate about the world of programming and videogames! Here, you can
       <h3 align="center">Webpage for ITICBCN</h3>
       <div align="center">
         <a href="https://github.com/KeydarItamar/Proyecte-Itic-web" target="_blank">
-          <img src="https://i.imgur.com/PiqYUwS.png" style="height: 12em; object-fit: contain; max-width: 100%;" alt="Webpage for ITICBCN">
+          <img src="https://i.imgur.com/PiqYUwS.png" style="height: auto; object-fit: contain; max-width: 100%;" alt="Webpage for ITICBCN">
         </a>
         <p>
           <a href="https://github.com/KeydarItamar/Proyecte-Itic-web" target="_blank">
